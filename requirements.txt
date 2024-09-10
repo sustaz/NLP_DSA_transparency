@@ -1,0 +1,10 @@
+python-docx
+pymupdf
+voyageai
+langchain_community
+langchain
+langchain_chroma
+langchain_voyageai
+chromadb
+openai
+rank_bm25
