@@ -13,7 +13,7 @@ from langchain_voyageai import VoyageAIEmbeddings
 from langchain.schema import Document
 
 embeddings = VoyageAIEmbeddings(model=model_rag,
-                              voyage_api_key="pa-dEanLyItFJGkjWwJIrH8rkksULidpmWurbngs5WOJfI",
+                              voyage_api_key="",
                               show_progress_bar=True)
 
 db_path = f'/content/drive/MyDrive/NLLP/db/{provider}_t&c'
